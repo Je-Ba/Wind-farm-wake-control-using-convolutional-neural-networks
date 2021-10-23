@@ -1,0 +1,16 @@
+.ipynb_checkpoints
+.idea
+CNNWake.egg-info/
+venv*/
+profile_default/
+ipython_config.py
+.vscode/
+__pycache__/*
+wandb/
+*.pyc
+attached
+*.onnx
+generator.pt
+CNN.pt
+power_model.pt
+ti_model.pt
